@@ -1,2 +1,4 @@
-function Horse() {}
+function Horse() {
+  print("Hello");
+}
 module.exports = Horse;
