@@ -48,3 +48,5 @@ int main(void)
 		}
 	}
 }
+
+/* Program to blink one LED to pin PC3 every one second
