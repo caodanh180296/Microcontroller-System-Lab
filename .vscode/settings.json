@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "Mandatory.C": "cpp"
+        "Mandatory.C": "cpp",
+        "Additional_part.C": "cpp"
     }
 }
